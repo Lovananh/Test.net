@@ -16,5 +16,10 @@ namespace test1
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+           //them vao test 1 
+        }
     }
 }
