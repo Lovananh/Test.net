@@ -94,18 +94,18 @@
             // dataGridView2
             // 
             this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView2.Location = new System.Drawing.Point(296, 131);
+            this.dataGridView2.Location = new System.Drawing.Point(265, 131);
             this.dataGridView2.Name = "dataGridView2";
             this.dataGridView2.RowHeadersWidth = 62;
             this.dataGridView2.RowTemplate.Height = 28;
-            this.dataGridView2.Size = new System.Drawing.Size(196, 229);
+            this.dataGridView2.Size = new System.Drawing.Size(257, 229);
             this.dataGridView2.TabIndex = 4;
             // 
             // panel2
             // 
-            this.panel2.Location = new System.Drawing.Point(12, 14);
+            this.panel2.Location = new System.Drawing.Point(12, 89);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(233, 364);
+            this.panel2.Size = new System.Drawing.Size(233, 289);
             this.panel2.TabIndex = 5;
             // 
             // Form1

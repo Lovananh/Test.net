@@ -20,6 +20,9 @@ namespace test1
         private void label1_Click(object sender, EventArgs e)
         {
            //them vao test 1 
+           //ádfghj
+                //ádfghjk
+                //hfh
         }
     }
 }
